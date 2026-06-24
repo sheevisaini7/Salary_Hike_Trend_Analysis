@@ -40,15 +40,7 @@
 - Chefs had the highest salary levels but the lowest salary growth (17%), indicating potential retention risk.
 - Significant salary corrections were observed for lower-paid frontline roles.
 
-<details>
-<summary><b>View Supporting Visuals</b></summary>
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/c2be5d1e-f1c2-48d1-9d0d-74c713c54ad6" width="450">
-<img src="https://github.com/user-attachments/assets/0d72773c-9998-4b44-9453-929b31243a14" width="450">
-
-</details>
+<img width="890" height="711" alt="image" src="https://github.com/user-attachments/assets/64cf2482-2923-43d6-b406-ae171cc9ba21" />
 
 ## Gender-wise Analysis
 
