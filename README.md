@@ -29,6 +29,51 @@
 - Gender Pay Gap %
 - YoY % Salary Hike
 
+<table>
+  <tr>
+    <th>Measure Name</th>
+    <th>Purpose</th>
+    <th>DAX Screenshot</th>
+  </tr>
+
+  <tr>
+    <td>Average Salary</td>
+    <td>Calculates the average employee salary</td>
+    <td>
+      <img width="807" height="40" alt="image" src="https://github.com/user-attachments/assets/892d6b8c-ff1a-4798-8833-cbaacba7b373" />
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>YoY Salary Hike %</td>
+    <td>Calculates year-over-year salary growth</td>
+    <td>
+      <img width="1382" height="164" alt="image" src="https://github.com/user-attachments/assets/7223f59a-ec07-4a0f-b010-b2cec850ec9a" />
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>Gender Pay Gap %</td>
+    <td>Measures compensation difference between genders</td>
+    <td>
+      <img width="1371" height="191" alt="image" src="https://github.com/user-attachments/assets/031469ef-b606-4d12-99ce-cbb8c0f539b3" />
+
+    </td>
+  </tr>
+
+  <tr>
+    <td>% increase in income</td>
+    <td>Calculates employee attrition percentage</td>
+    <td>
+      <img width="1389" height="139" alt="image" src="https://github.com/user-attachments/assets/b6ba0cc9-cd24-4bc4-b92f-e8b35f5dfc60" />
+
+    </td>
+  </tr>
+
+</table>
+
 ---
 
 ## Dashboard
