@@ -45,10 +45,10 @@
 
 <br>
 
-<img src="<img width="371" height="296" alt="image" src="https://github.com/user-attachments/assets/592894a3-88a4-48e5-9154-90059064e23d" />
-" width="450">
-<img src="<img width="400" height="272" alt="image" src="https://github.com/user-attachments/assets/cd95537c-1f1e-4c2f-9904-4a05f787b972" />
-" width="450">
+<img src="<img width="371" height="296" alt="image" src="https://github.com/user-attachments/assets/592894a3-88a4-48e5-9154-90059064e23d" />" width="450">
+<img src="<img width="400" height="272" alt="image" src="https://github.com/user-attachments/assets/cd95537c-1f1e-4c2f-9904-4a05f787b972" />" width="450">
+
+</details>
 
 ## Gender-wise Analysis
 
