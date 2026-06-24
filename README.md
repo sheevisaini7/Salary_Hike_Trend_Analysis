@@ -4,10 +4,10 @@
 
 ## About the Project
 
--Conducted a 5-year salary hike analysis (2018–2022) for Raddison Hospitality Group.
--Analyzed compensation trends across designations, gender and locations.
--Evaluated gender pay equity and attrition patterns to identify compensation-related risks.
--Developed an interactive dashboard to support HR decision-making and workforce planning.
+- Conducted a 5-year salary hike analysis (2018–2022) for Raddison Hospitality Group.
+- Analyzed compensation trends across designations, gender and locations.
+- Evaluated gender pay equity and attrition patterns to identify compensation-related risks.
+- Developed an interactive dashboard to support HR decision-making and workforce planning.
 
 ---
 
