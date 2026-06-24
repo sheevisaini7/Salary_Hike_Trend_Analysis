@@ -99,6 +99,5 @@
 
 - Microsoft Excel
 - Power BI
-- Microsoft Word
 
 ---
