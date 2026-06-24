@@ -39,9 +39,13 @@
 - Managers experienced a total salary increase of 64%.
 - Chefs had the highest salary levels but the lowest salary growth (17%), indicating potential retention risk.
 - Significant salary corrections were observed for lower-paid frontline roles.
-<img width="375" height="305" alt="image" src="https://github.com/user-attachments/assets/b3715dd9-3262-4e12-a9f0-b38e280479a3" />
-<img width="397" height="280" alt="image" src="https://github.com/user-attachments/assets/ca614067-10b4-478b-9d86-3604cb8561a1" />
 
+<table>
+<tr>
+<td><img src="<img width="375" height="305" alt="image" src="https://github.com/user-attachments/assets/b3715dd9-3262-4e12-a9f0-b38e280479a3" />" width="450"></td>
+<td><img src="<img width="397" height="280" alt="image" src="https://github.com/user-attachments/assets/ca614067-10b4-478b-9d86-3604cb8561a1" />" width="450"></td>
+</tr>
+</table>
 
 ## Gender-wise Analysis
 
