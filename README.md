@@ -34,7 +34,7 @@
   <tr>
     <td>Average Salary</td>
     <td>Calculates the average employee salary</td>
-    <td>
+   
       <img width="807" height="40" alt="image" src="https://github.com/user-attachments/assets/892d6b8c-ff1a-4798-8833-cbaacba7b373" />
 
     </td>
