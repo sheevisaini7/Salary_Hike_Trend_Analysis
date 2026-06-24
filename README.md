@@ -24,11 +24,6 @@
 
 ## DAX Measures used in Power BI
 
-- Average Salary
-- % increase in salary
-- Gender Pay Gap %
-- YoY % Salary Hike
-
 <table>
   <tr>
     <th>Measure Name</th>
@@ -65,7 +60,7 @@
 
   <tr>
     <td>% increase in income</td>
-    <td>Calculates employee attrition percentage</td>
+    <td>Calculates the total increase in income from 2018 to 2022</td>
     <td>
       <img width="1389" height="139" alt="image" src="https://github.com/user-attachments/assets/b6ba0cc9-cd24-4bc4-b92f-e8b35f5dfc60" />
 
