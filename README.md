@@ -22,18 +22,12 @@
 
 ---
 
-## Measures used in Power BI
+## DAX Measures used in Power BI
 
-- Average_Salary = AVERAGE('Combined_Salary_Data(2018-2022)'[INCOME(in thousands)])
-- % increase in Income = 
-VAR Income2022 = CALCULATE(AVERAGE('Combined_Salary_Data(2018-2022)'[INCOME(in thousands)]),'Combined_Salary_Data(2018-2022)'[Year]= 2022)
-VAR Income2018 = CALCULATE(AVERAGE('Combined_Salary_Data(2018-2022)'[INCOME(in thousands)]),'Combined_Salary_Data(2018-2022)'[Year]= 2018)
-RETURN
-DIVIDE(Income2022-Income2018,Income2018)
-- Gender Pay Gap (GPG)
-- Designation-wise Compensation Trends
-- Location-wise Salary Trends
-- Attrition Patterns and Drivers
+- Average Salary
+- % increase in salary
+- Gender Pay Gap %
+- YoY % Salary Hike
 
 ---
 
